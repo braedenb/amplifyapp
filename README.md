@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 =======
 # amplifyapp
+
+# Troubleshooting
+
+https://stackoverflow.com/questions/70036160/amplifysignout-is-not-exported-from-aws-amplify-ui-react
+
+Downgrading ui-react to 1.2.5 in package.json brings back the AmplifySignOut and other components used in the tutorials.
