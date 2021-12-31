@@ -79,3 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://stackoverflow.com/questions/70036160/amplifysignout-is-not-exported-from-aws-amplify-ui-react
 
 Downgrading ui-react to 1.2.5 in package.json brings back the AmplifySignOut and other components used in the tutorials.
+
+https://github.com/aws-amplify/amplify-cli/issues/6117
+
+Set the missing role in General --> Service Role.
+Set 'latest' as Amplify CLI version under Build Settings --> Build image settings --> Edit --> Add package version override --> Select Amplify CLI --> Select version 'latest'
