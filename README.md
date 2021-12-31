@@ -1,5 +1,8 @@
 Personal project to learn building a Full-Stack React Application using AWS Amplify
 
+Expanded upon tutorial here:
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
